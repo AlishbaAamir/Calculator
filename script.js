@@ -3,8 +3,6 @@ function Number(num){
 }
  function clearResult(){
      document.getElementById('result').value ='';}
-// document.querySelector('#clear').addEventListener("click",()=>{
-// document.querySelector('#display').value="";
 
 
 function removeNumber(){
